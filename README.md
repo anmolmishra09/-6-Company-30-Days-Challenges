@@ -1,7 +1,3 @@
-//    1401. Circle and Rectangle Overlapping 
-
-
-
 
 class Solution {
     public boolean checkOverlap(
